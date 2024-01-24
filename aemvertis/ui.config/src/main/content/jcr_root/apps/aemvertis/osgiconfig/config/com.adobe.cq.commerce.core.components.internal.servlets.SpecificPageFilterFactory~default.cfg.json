@@ -1,0 +1,3 @@
+{
+  "sling.filter.pattern": "/content/aemvertis/.*?/(category-page|product-page)"
+}

@@ -1,0 +1,143 @@
+{
+  "jcr:primaryType": "cq:Page",
+  "jcr:content": {
+    "jcr:primaryType": "cq:PageContent",
+    "jcr:title": "Home",
+    "rootPagePath": "/content/aemvertis/us/en/home"
+  },
+  "about-us": {
+    "jcr:primaryType": "cq:Page",
+    "jcr:content": {
+      "jcr:primaryType": "cq:PageContent",
+      "jcr:title": "About Us"
+    },
+    "child-1": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:content": {
+        "jcr:primaryType": "cq:PageContent",
+        "jcr:title": "Child 2"
+      }
+    },
+    "child-2": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:content": {
+        "jcr:primaryType": "cq:PageContent",
+        "jcr:title": "Child 2"
+      }
+    }
+  },
+  "patient-care": {
+    "jcr:primaryType": "cq:Page",
+    "jcr:content": {
+      "jcr:primaryType": "cq:PageContent",
+      "jcr:createdBy": "admin",
+      "jcr:title": "Patient Care"
+    },
+    "conditions-treatments": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:content": {
+        "jcr:primaryType": "cq:PageContent",
+        "jcr:title": "Conditions & Treatments"
+      },
+      "conditions-treatments": {
+        "jcr:primaryType": "cq:Page",
+        "jcr:content": {
+          "jcr:primaryType": "cq:PageContent",
+          "jcr:title": "Conditions & Treatments"
+        },
+        "test": {
+          "jcr:primaryType": "cq:Page",
+          "jcr:content": {
+            "jcr:primaryType": "cq:PageContent",
+            "jcr:createdBy": "admin",
+            "jcr:title": "Test"
+          }
+        }
+      },
+      "medicine": {
+        "jcr:primaryType": "cq:Page",
+        "jcr:content": {
+          "jcr:primaryType": "cq:PageContent",
+          "jcr:createdBy": "admin",
+          "jcr:title": "Medicine"
+        }
+      },
+      "patient-education": {
+        "jcr:primaryType": "cq:Page",
+        "jcr:content": {
+          "jcr:primaryType": "cq:PageContent",
+          "jcr:createdBy": "admin",
+          "jcr:title": "Patient Education"
+        }
+      }
+    },
+    "specialties-services": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:content": {
+        "jcr:primaryType": "cq:PageContent",
+        "jcr:title": "Specialties & Services"
+      }
+    },
+    "clinical-specialites": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:content": {
+        "jcr:primaryType": "cq:PageContent",
+        "jcr:createdBy": "admin",
+        "jcr:title": "Clinical Specialites"
+      }
+    },
+    "sub-specialty-centres-services": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:content": {
+        "jcr:primaryType": "cq:PageContent",
+        "jcr:createdBy": "admin",
+        "jcr:title": "Sub-Specialty Centres & Services"
+      }
+    }
+  },
+  "find-a-doctor": {
+    "jcr:primaryType": "cq:Page",
+    "jcr:content": {
+      "jcr:primaryType": "cq:PageContent",
+      "jcr:createdBy": "admin",
+      "jcr:title": "Find A Doctor"
+    }
+  },
+  "healthxchange": {
+    "jcr:primaryType": "cq:Page",
+    "jcr:content": {
+      "jcr:primaryType": "cq:PageContent",
+      "jcr:title": "HealthXChange"
+    }
+  },
+  "research-innovation": {
+    "jcr:primaryType": "cq:Page",
+    "jcr:content": {
+      "jcr:primaryType": "cq:PageContent",
+      "jcr:title": "Research & Innovation"
+    }
+  },
+  "education-training": {
+    "jcr:primaryType": "cq:Page",
+    "jcr:content": {
+      "jcr:primaryType": "cq:PageContent",
+      "jcr:title": "Education & Training"
+    }
+  },
+  "careers": {
+    "jcr:primaryType": "cq:Page",
+    "jcr:content": {
+      "jcr:primaryType": "cq:PageContent",
+      "jcr:createdBy": "admin",
+      "jcr:title": "Careers"
+    }
+  },
+  "giving": {
+    "jcr:primaryType": "cq:Page",
+    "jcr:content": {
+      "jcr:primaryType": "cq:PageContent",
+      "jcr:createdBy": "admin",
+      "jcr:title": "Giving"
+    }
+  }
+}
